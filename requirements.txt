@@ -1,4 +1,4 @@
-tensorflow==2.20.0
+tensorflow-cpu
 streamlit==1.50.0
 pillow==11.3.0
 numpy==2.3.3
